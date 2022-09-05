@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PakistanPoultry</string>
+    <string-array name="city_names">
+        <item>Rahim Yar Khan</item>
+        <item>Lahore</item>
+        <item>Karachi</item>
+        <item>Islamabad</item>
+    </string-array>
+    <array name="company_icons">
+        <item>@drawable/ic_action_calender</item>
+    </array>
+</resources>

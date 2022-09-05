@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512257045190",
+    "firebase_url": "https://pakistanpoultry-f85cf.firebaseio.com",
+    "project_id": "pakistanpoultry-f85cf",
+    "storage_bucket": "pakistanpoultry-f85cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512257045190:android:b69caf286051e75d",
+        "android_client_info": {
+          "package_name": "com.example.pakistanpoultry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512257045190-fcvg531s9i5rv2b1tpin4a0616o61m8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pakistanpoultry",
+            "certificate_hash": "01ceca2cef57df78b184d3d1badfc64a992d2ae8"
+          }
+        },
+        {
+          "client_id": "512257045190-qvni5f6a3orjfekam1ivof0nvs032a23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2gxI8RV8-n5f9tbPza4vbxQI61JO4Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512257045190-qvni5f6a3orjfekam1ivof0nvs032a23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
